@@ -1,48 +1,102 @@
-# Hi, I'm Manuela Martins
+<h1 align="center">Manuela Martins</h1>
 
-Front-end Developer based in Brazil.  
-Graduated in Systems Analysis and Development.
+<p align="center">
+  Front-end Developer at Melhor Envio
+</p>
 
-## About Me
+<p align="center">
+  Building modern and user-focused web applications
+</p>
 
-I am a Front-end Developer with experience building modern web applications using React and TypeScript.  
-Currently working as a Front-end Apprentice at Melhor Envio.
+---
 
-I am focused on writing clean, maintainable code and building scalable and user-friendly applications.  
-Open to Junior Front-end opportunities.
+## Professional Summary
 
-## Tech Stack
+Front-end Developer currently working at Melhor Envio, contributing to the development and maintenance of production web applications.
 
-Frontend:
-React, TypeScript, JavaScript, HTML, CSS
+Experience with modern front-end technologies, interface improvements and collaborative development in real-world environments.
 
-Backend:
-Node.js, Python
+Open to new professional opportunities and challenges.
 
-Database:
-MySQL, SQL
+---
 
-Tools:
-Git, GitHub
+## Professional Experience  
+
+### Front-end Developer Apprentice  
+Melhor Envio  
+
+- Supporting the development and maintenance of production web applications  
+- Assisting in the implementation of new features and interface improvements  
+- Contributing to bug fixing and performance adjustments  
+- Collaborating with designers, backend developers and the product team  
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js" />
+  <img src="https://img.shields.io/badge/-ReactNative-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwindcss" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/-GitHubPages-000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/-Jira-000?style=for-the-badge&logo=jira" />
+  <img src="https://img.shields.io/badge/-Trello-000?style=for-the-badge&logo=trello" />
+  <img src="https://img.shields.io/badge/-Miro-000?style=for-the-badge&logo=miro" />
+  <img src="https://img.shields.io/badge/-Confluence-000?style=for-the-badge&logo=confluence" />
+</p>
+
+---
 
 ## Featured Project
 
-### Viralizze – Web Platform
+### Viralizze
 
-Viralizze is a full-stack web platform developed as my final graduation project.
+Platform connecting brands and influencers.
 
-The platform was designed to connect brands and influencers through a structured collaboration system.
+- Authentication system  
+- Brand and Influencer dashboards  
+- Opportunity creation and application management  
+- Messaging and interaction features  
 
-Main features:
-- User authentication
-- Role-based dashboards
-- Opportunity posting system
-- Application management
-- Hashtag-based filtering
-- REST API integration
-- Relational database structure
+Tech: React, TypeScript, Node.js, PostgreSQL
+
+---
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/manuela-lobato-martins/)  
-Email: manulmartinss@gmail.com
+<p>
+  <a href="https://www.linkedin.com/in/manuela-lobato-martins/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:manulmartinss@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
