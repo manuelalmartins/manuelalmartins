@@ -1,7 +1,7 @@
 <h1 align="center">Manuela Martins</h1>
 
 <p align="center">
-  Front-end Developer at Melhor Envio
+  Front-end Developer Apprentice at Melhor Envio
 </p>
 
 <p align="center">
@@ -16,6 +16,8 @@ Front-end Developer currently working at Melhor Envio, contributing to the devel
 
 Experience with modern front-end technologies, interface improvements and collaborative development in real-world environments.
 
+Passionate about continuous learning and improving code quality.
+
 Open to new professional opportunities and challenges.
 
 ---
@@ -25,11 +27,15 @@ Open to new professional opportunities and challenges.
 ### Front-end Developer Apprentice  
 Melhor Envio  
 
-- Supporting the development and maintenance of production web applications  
-- Assisting in the implementation of new features and interface improvements  
-- Contributing to bug fixing and performance adjustments  
-- Collaborating with designers, backend developers and the product team  
+- Supporting the development and maintenance of production web applications used by thousands of users  
+- Assisting in the implementation of new features and UI improvements  
+- Contributing to bug fixing and improving application stability  
+- Working in collaboration with designers, backend developers and the product team
 
+- Working in a real production environment  
+- Contributing to internal tools and customer-facing features  
+- Participating in code reviews and team technical discussions
+  
 ---
 
 ## Technical Skills
@@ -88,6 +94,14 @@ Platform connecting brands and influencers.
 
 Tech: React, TypeScript, Node.js, PostgreSQL
 
+---
+
+## Currently Learning
+
+- Software architecture fundamentals  
+- Performance optimization techniques  
+- Advanced TypeScript patterns
+  
 ---
 
 ## Contact
